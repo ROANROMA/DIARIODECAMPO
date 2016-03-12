@@ -2,18 +2,16 @@ package rodrigo.diariodecampo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.ListView;
 
-public class DCAMPO extends AppCompatActivity {
+public class dcampo1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_dcampo);
+        setContentView(R.layout.activity_dcampo1);
 
-        
+
+
 
     }
-
-
 }
